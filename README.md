@@ -16,7 +16,7 @@ The web application is built with Streamlit for interactive user input and real-
 
 
 ## Installation
-### 1.Clone the repository:-[git clone https://github.com/yourusername/customer-churn-prediction.git cd customer-churn-prediction](https://github.com/abhikgpian/DL-customer-churn-model.git)
+### 1.Clone the repository:-[https://github.com/yourusername/customer-churn-prediction.git cd customer-churn-prediction](https://github.com/abhikgpian/DL-customer-churn-model.git)
 
 ### 2.Set up a virtual environment (optional but recommended):-python -m venv venv source venv/bin/activate  # On Windows: venv\Scripts\activate
 
